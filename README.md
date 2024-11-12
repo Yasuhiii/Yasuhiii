@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasuhiii nice to meet you! For now I’m just a newbie here.
 - 👀 I’m interested in learning devolopment of apps, sites and more!
-- 🌱 I’m currently learning python language, assembly, C/C++ and arduino languages.
+- 🌱 I’m currently learning python, assembly, C/C++ and arduino languages.
 - 💞️ at the moment I’m not looking to collaborate on anything cuz I’m still learning the basics.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
