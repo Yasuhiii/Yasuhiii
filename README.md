@@ -4,7 +4,7 @@
 🎓 Software Engineering & Computer Systems Student <br>
 💻 Learning and practicing every day <br>
 🚀 Interested in Game and Web Development, AI & Automation <br>
-📍 Cabo Verde
+📍 Cape Verde
 </p>
 
 <hr>
