@@ -1,52 +1,56 @@
-# 👋 Hey, I'm Eric
+<h1>👋 Hey, I'm YOUR_NAME</h1>
 
-🎓 Software Engineering & Computer Systems student  
-💻 Learning and practicing every day  
-🚀 Interested in Game and Web Development, AI & Automation
-📍 Cape Verde
+<p>
+🎓 Software Engineering & Computer Systems Student <br>
+💻 Learning and building projects every day <br>
+🚀 Interested in Web Development, AI & Automation <br>
+📍 Portugal
+</p>
 
----
+<hr>
 
-## 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-<!--![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)-->
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js" />
+</p>
 
-## 🐧 Operating Systems
+<hr>
 
-![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+<h2>🖥️ Operating Systems</h2>
 
----
+<p>
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Yasuhiii&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasuhiii&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram)](https://instagram.com/cireatsoc/)
-
+<hr>
 
 <!--
-**Yasuhiii/Yasuhiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊 GitHub Stats</h2>
 
-Here are some ideas to get you started:
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<hr>
 -->
+
+<h2>🌐 Connect With Me</h2>
+
+<p>
+<a href="https://Instagram.com/cireatsoc">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://github.com/Yasuhiii">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+</a>
+</p>
