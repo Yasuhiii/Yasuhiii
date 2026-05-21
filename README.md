@@ -1,4 +1,4 @@
-<h1>👋 Hey, I'm YOUR_NAME</h1>
+<h1>👋 Hey, I'm Eric</h1>
 
 <p>
 🎓 Software Engineering & Computer Systems Student <br>
