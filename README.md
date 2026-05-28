@@ -1,7 +1,7 @@
 <h1>👋 Hey, I'm Eric</h1>
 
 <p>
-🎓 Software Engineering & Computer Systems Student <br>
+🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
 💻 Learning and practicing every day <br>
 🚀 Interested in Game and Web Development, AI & Automation <br>
 📍 Cape Verde
