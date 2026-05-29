@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=700&lines=Hey,+I'm+Eric!;Welcome+to+my+profile+and+feel+free+to+see+my+projects!+%3A%29" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!+Welcome+to+my+profile!" />
 
 <p>
 🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
