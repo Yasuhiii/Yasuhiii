@@ -1,10 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!+Welcome+to+my+profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!;Welcome+to+my+profile!" />
 
 <p>
 🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
-💻 Learning and practicing every day <br>
-🚀 Interested in Game and Web Development, AI & Automation <br>
- ©  I love C :) <br> 
+💻 Learning and practicing every day (I love C) <br>
+🚀 Interested in Game development & AI/Automation<br> 
 📍 Cape Verde
 </p>
 
