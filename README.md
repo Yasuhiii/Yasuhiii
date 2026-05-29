@@ -4,6 +4,7 @@
 🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
 💻 Learning and practicing every day <br>
 🚀 Interested in Game and Web Development, AI & Automation <br>
+ ©  I love C :) <br> 
 📍 Cape Verde
 </p>
 
@@ -12,8 +13,8 @@
 <h2>🛠 Tech Stack</h2>
 
 <p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
 <!--<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
