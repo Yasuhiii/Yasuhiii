@@ -46,12 +46,12 @@
 <hr>
 -->
 
-<h2 align="center">🌐 Social medias that use more</h2>
+<h2 align="center">🌐 Social medias</h2>
 
 <p align="center">
   <a href="https://github.com/Yasuhiii" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50">
-  </a>
+  </a>  
 
   <a href="https://instagram.com/cireatsoc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50">
@@ -59,5 +59,5 @@
 
   <a href="https://x.com/_mr_reis_" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50">
-</a>
+  </a>
 </p>
