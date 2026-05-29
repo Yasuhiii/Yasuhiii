@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=500&lines=Hey,+I'm+Eric!+It's+a+pleasure+meeting+all+of+you!" />
-     I'm trying to use GitHub more, so it will be a pleasure being here :)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=700&lines=Hey,+I'm+Eric!;Welcome+to+my+profile+and+feel+free+to+see+my+projects!+%3A%29" />
+
 <p>
 🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
 💻 Learning and practicing every day <br>
