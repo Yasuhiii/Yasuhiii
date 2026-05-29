@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=500&lines=👋+Hey,+I'm+Eric" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=500&lines=Hey,+I'm+Eric" />
      I'm trying to use GitHub more, so it will be a pleasure being here :)
 <p>
 🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
