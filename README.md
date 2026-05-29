@@ -56,4 +56,8 @@
   <a href="https://instagram.com/cireatsoc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50">
   </a>
+
+  <a href="https://x.com/_mr_reis_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="50">
+</a>
 </p>
