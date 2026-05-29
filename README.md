@@ -13,11 +13,12 @@
 <h2>🛠 Tech Stack</h2>
 
 <p>
-<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">     
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
 <!--<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js" />-->
 </p>
