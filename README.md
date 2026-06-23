@@ -2,7 +2,7 @@
 
 <p>
 🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
-💻 Learning and practicing every day (I love C) <br>
+💻 Learning and practicing every day <br>
 🚀 Interested in Game development & AI/Automation<br> 
 📍 Cape Verde
 </p>
