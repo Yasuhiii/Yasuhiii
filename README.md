@@ -49,7 +49,7 @@
 -->
 
 <h2 align="center">🌐 Social medias</h2>
-https://www.facebook.com/eric.reis.73113
+
 <p align="center">
   <a href="https://github.com/Yasuhiii" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50">
