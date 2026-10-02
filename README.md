@@ -6,7 +6,7 @@
 🚀 Interested in Game development & AI/Automation<br> 
 📍 Cape Verde
 
- (currently learning C++) 
+ I barely use GitHub (currently learning C++) 
 </p>
 
 <hr>
@@ -49,7 +49,7 @@
 -->
 
 <h2 align="center">🌐 Social medias</h2>
-
+https://www.facebook.com/eric.reis.73113
 <p align="center">
   <a href="https://github.com/Yasuhiii" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50">
@@ -57,6 +57,10 @@
 
   <a href="https://instagram.com/cireatsoc" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50">
+  </a>
+
+  <a href="https://www.facebook.com/eric.reis.73113" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="50">
   </a>
   
 </p>
