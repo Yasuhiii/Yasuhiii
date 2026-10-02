@@ -48,7 +48,7 @@
 <hr>
 -->
 
-<h2 align="center">🌐 Social medias</h2>
+<h2 align="center">Social medias</h2>
 
 <p align="center">
   <a href="https://github.com/Yasuhiii" target="_blank">
