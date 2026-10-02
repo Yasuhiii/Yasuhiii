@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
@@ -27,7 +27,7 @@
 
 <hr>
 
-<h2 align="center">🖥️ Operating Systems</h2>
+<h2 align="center">Operating Systems</h2>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50">
