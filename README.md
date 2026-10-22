@@ -5,7 +5,7 @@
 🚀 Interested in Game development & AI/Automation<br> 
 📍 Cape Verde
 
- I barely use GitHub (currently learning C++) 
+ I barely use GitHub
 </p>
 
 <hr>
