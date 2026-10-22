@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!;Welcome+to+my+profile!" />
 
 <p>
-🎓 Software Engineering & Computer Systems Student at Universidade do Mindelo <br>
+🎓 Software Engineering & Computer Systems student at Universidade do Mindelo <br>
 🚀 Interested in Game development & AI/Automation<br> 
 📍 Cape Verde
 
