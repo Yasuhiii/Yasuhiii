@@ -1,8 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!;Welcome+to+my+profile!" />
 
-<div>
-![:Yasuhiii](https://count.getloli.com/@:Yasuhiii)
-</div>
+[![moe-counter]](https://count.getloli.com/)
 
 <p>
  I barely use GitHub
@@ -63,3 +61,5 @@
   </a>
   
 </p>
+
+[moe-counter]: https://count.getloli.com/@Yasuhiii?name=Yasuhiii&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
