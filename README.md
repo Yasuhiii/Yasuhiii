@@ -2,10 +2,6 @@
 
 [![moe-counter]](https://count.getloli.com/)
 
-<p>
- I barely use GitHub
-</p>
-
 <hr>
 
 <h2 align="center">Tech Stack</h2>
