@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!;Welcome+to+my+profile!" />
 
 <div>
-https://count.getloli.com/@blog?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+[![moe-counter]](ttps://count.getloli.com/@blog?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)h
 </div>
 
 <p>
