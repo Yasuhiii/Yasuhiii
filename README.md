@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!;Welcome+to+my+profile!" />
 
 <div>
-![:Yasuhiii](https://count.getloli.com/@:kitty)
+![:Yasuhiii](https://count.getloli.com/@:Yasuhiii)
 </div>
 
 <p>
