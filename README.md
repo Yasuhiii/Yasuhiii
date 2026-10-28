@@ -1,10 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!;Welcome+to+my+profile!" />
 
-<p>
-🎓 Software Engineering & Computer Systems student at Universidade do Mindelo <br>
-🚀 Interested in Game development & AI/Automation<br> 
-📍 Cape Verde
+<div>
+https://count.getloli.com/@blog?theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+</div>
 
+<p>
  I barely use GitHub
 </p>
 
